@@ -1,4 +1,4 @@
-package com.cursor.edu;
+package com.edu.cursor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
