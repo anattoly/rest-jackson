@@ -1,4 +1,4 @@
-package com.edu.cursor.entity;
+package com.edu.cursor.repository;
 
 import lombok.Data;
 
